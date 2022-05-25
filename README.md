@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Social Proof Section" src="assets/desktop.png" width="75%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Social Proof Section" src="assets/desktop.png" width="75%" height="425px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Social Proof Section" src="assets/mobile.png" width="20%" height="425px">
 </p>
 
