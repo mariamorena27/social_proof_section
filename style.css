@@ -147,11 +147,57 @@ body {
   top: 40px;
 }
 
-  /* @media only screen and (max-width: 1520px) {
-    .card-2 {
-      top: 0px;
+  @media only screen and (min-width: 1310px) and (max-width: 1429px) {
+    .buyer {
+      max-width: 240px;
+      font-size: 120%;
     }
   }
 
-  @media only screen and (max-width: 1350px) {
-  } */
+  @media only screen and (min-width: 300px) and (max-width: 1309px) {
+    .wrapper {
+      font-size: 120%;
+    }
+    
+    .main-text h1 {
+      max-width: 100%;
+      text-align: center;
+    }
+
+    .main-text p {
+      max-width: 100%;
+      text-align: center;
+    }
+    
+    .ratings {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .rating {
+      flex-direction: column;
+      justify-content: center;
+      padding: 10px 40px;
+      gap: 10px;
+    }
+    .rating p {
+      margin: 0;
+    }
+
+    .rating-1 {
+      margin-right: 0;
+    }
+    
+    .rating-2 {
+      margin-right: 0;
+    }
+
+    .buyer-2 {
+      top: 0;
+    }
+
+    .buyer-3 {
+      top: 0;
+    }
+  }
